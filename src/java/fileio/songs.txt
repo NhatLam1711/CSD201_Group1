@@ -1,0 +1,10 @@
+1|Shape of You|Ed Sheeran|234
+2|Blinding Lights|The Weeknd|200
+3|Someone Like You|Adele|285
+4|Perfect|Ed Sheeran|263
+5|Counting Stars|OneRepublic|257
+6|Believer|Imagine Dragons|204
+7|Lạc Trôi|Sơn Tùng M-TP|272
+8|Waiting For You|MONO|261
+9|See You Again|Wiz Khalifa|229
+10|Thinking Out Loud|Ed Sheeran|281

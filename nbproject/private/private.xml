@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/ds/NodeTree.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/fileio/FileUtils.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/service/SongService.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/fileio/SongFile.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/controller/showSongController.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/ds/Stack.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/ds/SongBST.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/controller/logoutController.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/dto/Song.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/dto/SongHistory.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/dto/UserDTO.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/controller/loginController.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/dao/SongDAO.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/ds/NodeStack.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/service/SongTreeService.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/controller/mainController.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/nguye/Downloads/MusicPlayer/src/java/controller/showHistoryController.java</file>
+        </group>
+    </open-files>
+</project-private>
